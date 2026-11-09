@@ -12,3 +12,4 @@ qa/selenium/capturas/
 qa/selenium/resultados.html
 __pycache__/
 .pytest_cache/
+qa/junit/build/
